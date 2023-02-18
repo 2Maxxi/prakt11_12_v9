@@ -1,0 +1,21 @@
+C:\Users\305-12\Desktop\Сухих_ПР22\Основа олгаритмизации\Практика 11_12 Зад2 В9\obj\Debug\Практика 11_12 Зад2 В9.csproj.AssemblyReference.cache
+C:\Users\305-12\Desktop\Сухих_ПР22\Основа олгаритмизации\Практика 11_12 Зад2 В9\obj\Debug\Практика_11_12_Зад2_В9.Form1.resources
+C:\Users\305-12\Desktop\Сухих_ПР22\Основа олгаритмизации\Практика 11_12 Зад2 В9\obj\Debug\Практика_11_12_Зад2_В9.Properties.Resources.resources
+C:\Users\305-12\Desktop\Сухих_ПР22\Основа олгаритмизации\Практика 11_12 Зад2 В9\obj\Debug\Практика 11_12 Зад2 В9.csproj.GenerateResource.cache
+C:\Users\305-12\Desktop\Сухих_ПР22\Основа олгаритмизации\Практика 11_12 Зад2 В9\obj\Debug\Практика 11_12 Зад2 В9.csproj.CoreCompileInputs.cache
+C:\Users\305-12\Desktop\Сухих_ПР22\Основа олгаритмизации\Практика 11_12 Зад2 В9\bin\Debug\Практика 11_12 Зад2 В9.exe.config
+C:\Users\305-12\Desktop\Сухих_ПР22\Основа олгаритмизации\Практика 11_12 Зад2 В9\bin\Debug\Практика 11_12 Зад2 В9.exe
+C:\Users\305-12\Desktop\Сухих_ПР22\Основа олгаритмизации\Практика 11_12 Зад2 В9\bin\Debug\Практика 11_12 Зад2 В9.pdb
+C:\Users\305-12\Desktop\Сухих_ПР22\Основа олгаритмизации\Практика 11_12 Зад2 В9\obj\Debug\Практика 11_12 Зад2 В9.exe
+C:\Users\305-12\Desktop\Сухих_ПР22\Основа олгаритмизации\Практика 11_12 Зад2 В9\obj\Debug\Практика 11_12 Зад2 В9.pdb
+C:\Users\vorvu\Desktop\Ебаная Мирошниченко\Практика 11_12 Зад2 В9\bin\Debug\Практика 11_12 Зад2 В9.exe.config
+C:\Users\vorvu\Desktop\Ебаная Мирошниченко\Практика 11_12 Зад2 В9\bin\Debug\Практика 11_12 Зад2 В9.exe
+C:\Users\vorvu\Desktop\Ебаная Мирошниченко\Практика 11_12 Зад2 В9\bin\Debug\Практика 11_12 Зад2 В9.pdb
+C:\Users\vorvu\Desktop\Ебаная Мирошниченко\Практика 11_12 Зад2 В9\obj\Debug\Практика 11_12 Зад2 В9.csproj.AssemblyReference.cache
+C:\Users\vorvu\Desktop\Ебаная Мирошниченко\Практика 11_12 Зад2 В9\obj\Debug\Практика 11_12 Зад2 В9.csproj.SuggestedBindingRedirects.cache
+C:\Users\vorvu\Desktop\Ебаная Мирошниченко\Практика 11_12 Зад2 В9\obj\Debug\Практика_11_12_Зад2_В9.Form1.resources
+C:\Users\vorvu\Desktop\Ебаная Мирошниченко\Практика 11_12 Зад2 В9\obj\Debug\Практика_11_12_Зад2_В9.Properties.Resources.resources
+C:\Users\vorvu\Desktop\Ебаная Мирошниченко\Практика 11_12 Зад2 В9\obj\Debug\Практика 11_12 Зад2 В9.csproj.GenerateResource.cache
+C:\Users\vorvu\Desktop\Ебаная Мирошниченко\Практика 11_12 Зад2 В9\obj\Debug\Практика 11_12 Зад2 В9.csproj.CoreCompileInputs.cache
+C:\Users\vorvu\Desktop\Ебаная Мирошниченко\Практика 11_12 Зад2 В9\obj\Debug\Практика 11_12 Зад2 В9.exe
+C:\Users\vorvu\Desktop\Ебаная Мирошниченко\Практика 11_12 Зад2 В9\obj\Debug\Практика 11_12 Зад2 В9.pdb
